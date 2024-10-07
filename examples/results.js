@@ -11,6 +11,7 @@ var PreviousResults = {
   "color-prop-01-b.svg": 0,
   "color-prop-02-f.svg": 0,
   "color-prop-03-t.svg": 0,
+  "additional-test-dasharray.svg": 0,
   "color-prop-05-t.svg": 13.02,
   "coords-coord-01-t.svg": 0,
   "coords-coord-02-t.svg": 0,
